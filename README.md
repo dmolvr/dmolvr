@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3182CE&center=true&vCenter=true&width=500&height=100&lines=Hi,+I'm+Denner+⚡;Front-end+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3182CE&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Denner!+👋;Front-end+Software+Engineer;" alt="Typing SVG" />
 
   <br>
 
-  <h3>✨ Front-end Software Developer | Crafting Clean & Modern Experiences ✨</h3>
+  <h3>✨ Front-end Software Engineer | Crafting Clean & Modern Experiences ✨</h3>
   <p>Driven by software architecture best practices, clean code, and high-end UI/UX design.</p>
 
   <a href="https://linkedin.com/in/dennerm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
